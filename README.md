@@ -12,6 +12,3 @@ Khansole Academy Math Game
 
 - Option to play again.
 
-# How to run
-'''bash
-python khansole.py
